@@ -1,0 +1,12 @@
+INGREDIENTS -- 
+
+ 1) A CUP 
+ 2) 2 TBSP of MELTED BUTTER
+ 3) 3 TBSP of CONDENSED MILK
+ 4) 4 TBSP of COFFEE [add 2 tbsp of cofee powder in warm milk]
+ 5) 4 TBSP of FLOUR
+ 6) 1/8th TSP of BAKING POWDER
+ 7) A PINCH of BAKING SODA
+
+ NOW FOR THE LAST STEP -- 
+ OPEN THE recipe.md FILE TO CREATE YOUR VERY OWN MUGCAKE !!
